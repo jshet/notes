@@ -1,0 +1,52 @@
+[
+  {
+    "bias": "Anchoring Bias",
+    "example": "When selling a used car, setting an initial high price and influencing potential buyers' perception of the car's value.",
+    "mitigation_tactic": "Seek multiple perspectives and independent sources of information to establish a more accurate range of value. Avoid fixating on the initial anchor."
+  },
+  {
+    "bias": "Availability Heuristic",
+    "example": "Recalling recent news stories about airplane accidents and perceiving air travel as more dangerous than it statistically is.",
+    "mitigation_tactic": "Actively seek out and consider a wide range of information and data. Look for statistical evidence and consider the base rates."
+  },
+  {
+    "bias": "Confirmation Bias",
+    "example": "Selectively focusing on positive testimonials and disregarding conflicting evidence when evaluating the effectiveness of a dietary supplement.",
+    "mitigation_tactic": "Actively seek out information that challenges your existing beliefs. Engage with diverse perspectives and critically evaluate the evidence."
+  },
+  {
+    "bias": "Halo Effect",
+    "example": "Attributing positive qualities, such as intelligence or kindness, to a person based on their appearance and communication skills.",
+    "mitigation_tactic": "Evaluate individuals based on multiple factors. Take time to assess individuals apart from initial impressions."
+  },
+  {
+    "bias": "Framing Effect",
+    "example": "Preferring '90% lean' ground beef over '10% fat' ground beef, despite both describing the same product.",
+    "mitigation_tactic": "Consider alternative descriptions or perspectives. Focus on underlying facts rather than the framing itself."
+  },
+  {
+    "bias": "Overconfidence Bias",
+    "example": "Overestimating one's skill in a game of poker and making poor decisions based on unwarranted confidence.",
+    "mitigation_tactic": "Foster self-awareness and humility. Seek feedback from others and actively consider alternative viewpoints."
+  },
+  {
+    "bias": "Loss Aversion",
+    "example": "Being averse to taking a bet with equal odds of winning or losing due to the fear of losing the money.",
+    "mitigation_tactic": "Evaluate decisions based on a rational assessment of expected value. Consider long-term consequences and weigh them against short-term losses."
+  },
+  {
+    "bias": "Hindsight Bias",
+    "example": "Believing you had foreseen a stock market crash after it occurs, despite not predicting it beforehand.",
+    "mitigation_tactic": "Reflect on past events and decisions, considering the available information and circumstances at the time. Maintain a balanced view."
+  },
+  {
+    "bias": "Recency Bias",
+    "example": "Placing more importance on the most recent interviewee's performance and overlooking earlier candidates' qualifications.",
+    "mitigation_tactic": "Practice active recall of earlier information or candidates. Take notes to maintain a comprehensive perspective."
+  },
+  {
+    "bias": "Sunk Cost Fallacy",
+    "example": "Attending a concert for a music artist you no longer enjoy, feeling obliged to 'get your money's worth.'",
+    "mitigation_tactic": "Focus on future outcomes rather than past investments. Consider opportunity costs and make choices based on the best available options."
+  }
+]
